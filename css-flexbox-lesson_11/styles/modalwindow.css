@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top:0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.item-1 {
+    width: 300px;
+    min-height: 180px;
+}
+
